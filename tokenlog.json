@@ -1,7 +1,7 @@
 {
     "org": "CommonsBuild",
     "repo": "test-issues-config-dashboard",
-    "tokenAddresses": ["0xc4fbE68522ba81a28879763C3eE33e08b13c499E", "0xdf2c3c8764a92eb43d2eea0a4c2d77c2306b0835"],
+    "tokenAddress": "0x799844141C2627bD195c89c3A0c71341d0314c55",
     "labels": ["Vote"],
     "votingMethod": "QUADRATIC",
     "chainId": 100
